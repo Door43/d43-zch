@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zch:home|Door43 (zch)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zch|d43-zch repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zch/archive/master.zip|d43-zch.zip]]
+
+**Recent Changes**
+{{changes>ns = zch}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zch|Ethnologue data]]
+
